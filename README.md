@@ -1,6 +1,6 @@
 ## Hi, I'm Phat 👋
 
-<!--
+
 Full name: Nguyễn Xuân Phát
 Job: Student of Faculty of Information of Technology; 
 Contact:
@@ -8,5 +8,4 @@ Contact:
 - _Email:_ **nguyenphat.spth@gmail.com;**
 -_ Facebook:_ https://www.facebook.com/suyt.suyt.1422/
 
-Temporary End :v
--->
+**Temporary End :v**
