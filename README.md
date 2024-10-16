@@ -3,7 +3,7 @@
 
 Full name: Nguyễn Xuân Phát;
 
-Job: Student of Faculty of Information of Technology; 
+Job: Student of Faculty of Information of Technology, HCMC University of Education;
 
 Contact:
 - _Phone number:_ **+84 703 662 542;**
