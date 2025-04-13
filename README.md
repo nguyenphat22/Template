@@ -5,7 +5,6 @@ Full name: Nguyễn Xuân Phát; </br>
 Nation: Việt Nam; </br>
 Year of birth: 2005; </br>
 Student of Faculty of Information of Technology, HCMC University of Education; </br>
-Deputy Secretary of Class 49.TIN.SPB's HCYU; </br>
 </br>
 </br>
 </br>
